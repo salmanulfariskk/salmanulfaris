@@ -10,18 +10,18 @@ Static website made with HTML, CSS, JS and Bootstrap
 - [Customization](#customization)
 
 ## Demo
-[Demo](https://salmanulfariskk.github.io/MyProtfolio)
+[Demo](https://salmanulfariskk.github.io/salmanulfaris)
 
 
 ## Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/salmanulfariskk/MyProtfolio
+   git clone https://github.com/salmanulfariskk/salmanulfaris
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd personal-portfolio
+   cd salmanulfaris
    ```
 
 ## Usage
